@@ -1,5 +1,7 @@
-# review-scientific-paper
-Review scientific manuscripts and produce structured peer-review reports. Use when the user asks to review, critically assess, pre-review, or provide reviewer comments on a research manuscript, preprint, thesis chapter, or scientific paper.
+---
+name: paper-review
+description: Review scientific manuscripts and produce structured peer-review reports. Use when the user asks to review, critically assess, pre-review, or provide reviewer comments on a research manuscript, preprint, thesis chapter, or scientific paper.
+---
 
 # Core principles
 - Evaluate claims only against evidence present in the manuscript.
